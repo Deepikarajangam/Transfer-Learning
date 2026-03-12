@@ -21,8 +21,8 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 
 ## PROGRAM
-NAME: DEEPIKA R
-REG NO:212224040061
+## NAME: DEEPIKA R
+## REG NO:212224040061
 Include your code here
 ```import torch
 import torch.nn as nn
